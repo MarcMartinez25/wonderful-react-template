@@ -1,5 +1,4 @@
 # A nice react template that I like to use for my personal projects
----
 
 This template includes
 
